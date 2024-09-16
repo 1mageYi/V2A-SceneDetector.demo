@@ -134,4 +134,9 @@ body {
 }
 
 
-
+.video-grid video {
+  width: 100%;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
